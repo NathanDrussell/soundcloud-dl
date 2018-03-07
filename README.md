@@ -16,9 +16,9 @@ Download an Artists tracks: https://soundcloud.com/{ARTIST}/tracks (Go to artist
 
 ### OPTIONS:
 
--a, --artist -
-       -Downloads all the tracks uploaded by a given Artist
+-a, --artist |
+       Downloads all the tracks uploaded by a given Artist
 
- -h, --help -
+ -h, --help |
        Displays Help Dialogue
 
