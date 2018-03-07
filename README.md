@@ -6,7 +6,7 @@ Naming convention inspired by [Youtube-DL](https://github.com/rg3/youtube-dl).
 
 # USAGE:
 
-soundcloud-dl [OPTIONS] url
+`soundcloud-dl [OPTIONS] url`
 
 #### Url Formats: 
 
