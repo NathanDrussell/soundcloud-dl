@@ -14,7 +14,9 @@ Download one Song: https://soundcloud.com/{ARTIST}/{SONG-TITLE}
 Download an Artists tracks: https://soundcloud.com/{ARTIST}/tracks (Go to artist and click on the tracks tab and then copy link)
 
 OPTIONS:
+
   [-a, --artist]
+  
     Downloads all the tracks uploaded by a given Artist
 
 
