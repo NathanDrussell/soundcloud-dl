@@ -8,11 +8,11 @@ Naming convention inspired by [Youtube-DL](https://github.com/rg3/youtube-dl).
 
 soundcloud-dl [OPTIONS] url
 
-Url Formats: 
+#### Url Formats: 
 
-Download one Song: https://soundcloud.com/{ARTIST}/{SONG-TITLE}
+Single Song: https://soundcloud.com/{ARTIST}/{SONG-TITLE}
 
-Download an Artists tracks: https://soundcloud.com/{ARTIST}/tracks (Go to artist and click on the tracks tab and then copy link)
+Entire Artist: https://soundcloud.com/{ARTIST}/tracks (Go to artist and click on the tracks tab and then copy link)
 
 ### OPTIONS:
 
