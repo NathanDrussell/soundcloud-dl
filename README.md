@@ -1,8 +1,7 @@
 # soundcloud-dl
 A fun little project i worked on to download Soundcloud music. 
 
-Naming convention inspired by [Youtube-DL](https://github.com/rg3/youtube-dl).
-
+Naming convention inspired by [Youtube-DL](https://github.com/rg3/youtube-dl). 
 **I am not affiliated with the development of Youtube-DL.**
 
 # USAGE:
